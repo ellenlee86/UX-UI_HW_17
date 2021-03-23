@@ -37,7 +37,6 @@ padding: 25px;
 
 .content {
 margin:0 auto;
-background-size: cover;
 }
 
 h1, p {
@@ -45,7 +44,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .content img {
 margin-right: auto;
-width: flex;
+width: 500px;
 }
 
 footer {
